@@ -6,4 +6,4 @@ And the next line.
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
-Beautiful image (https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-desktop-background-1691.jpg)
+![Beautiful image!] (https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-desktop-background-1691.jpg)
