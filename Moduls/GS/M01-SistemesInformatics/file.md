@@ -6,6 +6,6 @@ And the next line.
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
-![An old rock in the desert](https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-desktop-background-1691.jpg "Shiprock, New Mexico by Beau Rogers"){ width=25% }
+![An old rock in the desert](https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-desktop-background-1691.jpg "Shiprock, New Mexico by Beau Rogers")
 
-<img src="https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-desktop-background-1691.jpg" width="100">
+<img src="https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-desktop-background-1691.jpg" width="300">
