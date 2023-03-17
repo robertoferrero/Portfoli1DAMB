@@ -4,4 +4,4 @@ And the next line.
 First line with the HTML tag after.<br>
 And the next line.
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
