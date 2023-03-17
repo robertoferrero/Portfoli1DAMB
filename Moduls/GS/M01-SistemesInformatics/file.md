@@ -10,7 +10,7 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best sea
 
 ![An old rock in the desert](https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-desktop-background-1691.jpg "Shiprock, New Mexico by Beau Rogers")
 
-<img src="https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-desktop-background-1691.jpg" width="300" alt="Cascada">
+<img src="https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-desktop-background-1691.jpg" width="400" alt="Cascada">
 
 1. First item
 1. Second item
