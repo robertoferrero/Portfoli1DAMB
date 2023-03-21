@@ -4,7 +4,7 @@ Aquest és el meu **_portfoli_** sobre els meus estudis del *Cicle Superior de D
 
 Els meus estudis de DAM els vaig fer a l'Institut Nicolau Copèrnic
 
-<img src="https://copernic.cat/images/logos/logo-header.png" alt="Logo Nicolau Copèrnic" width="150">
+<img src="images/logo-header.png" alt="Logo Nicolau Copèrnic" width="150">
 
 
 Els mòduls que he fet són:
